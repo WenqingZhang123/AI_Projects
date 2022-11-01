@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project3-YOLOv5+Deepsort_analyse_car/01_detect_car_model/yolov5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project3-YOLOv5+Deepsort_analyse_car/1.训练车辆检测模型/yolov5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project4-GAN_make_people_move_from_old_picture/project/GAN/DeOldify" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project4-GAN_make_people_move_from_old_picture/project/GAN/RealSR" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project4-GAN_make_people_move_from_old_picture/project/GAN/first-order-model" vcs="Git" />
+  </component>
+</project>
